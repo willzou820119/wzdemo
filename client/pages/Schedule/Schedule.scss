@@ -1,0 +1,22 @@
+.custom-table {
+  th {
+    background: #0f2238;
+    color: #fff;
+    font-weight: bold;
+    border: 0.5px solid rgb(71, 76, 92);
+  }
+  tr td {
+    border: 0.5px solid rgb(71, 76, 92);
+}
+
+}
+.next-table-row {
+  background:#2c3448ed;
+  color: #fff;
+}
+
+.next-table-row.hovered {
+  background:#21293f;
+  color: #fff;
+}
+
